@@ -69,14 +69,6 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JarethMdz06/JarethMdz06/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JarethMdz06/JarethMdz06/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JarethMdz06/JarethMdz06/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
-
-###
-
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/jared12715">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=jared12715&count=5" alt="Spotify recently played"  />
