@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Developer passionate about C#, .NET, Unity, Python & 3D.<br>I love creating useful projects, learning new technologies and turning ideas into digital experiences.<br>Anime • Videogames • Technology • Code</h2>
+<h2 data-importer="text" align="left">Developer passionate about C#, .NET, Unity, Python & 3D.<br>I love creating useful projects, learning new technologies and turning ideas into digital experiences.<br>• Anime • Videogames • Technology • Code</h2>
 
 ###
 
